@@ -1,5 +1,5 @@
 module Schoolmaster
-	class BaseAnalyser
+	class BaseAnalyzer
 		attr_reader :command, :args
 
 		def initialize(params)

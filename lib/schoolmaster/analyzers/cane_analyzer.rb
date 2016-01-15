@@ -1,5 +1,5 @@
 module Schoolmaster
-	class CaneAnalyser < BaseAnalyser
+	class CaneAnalyzer < BaseAnalyzer
 
 		def initialize(params = {})
 			super

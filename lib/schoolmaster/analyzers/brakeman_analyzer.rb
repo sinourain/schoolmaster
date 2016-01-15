@@ -1,5 +1,5 @@
 module Schoolmaster
-	class BrakemanAnalyser < BaseAnalyser
+	class BrakemanAnalyzer < BaseAnalyzer
 
 		def initialize(params = {})
 			super

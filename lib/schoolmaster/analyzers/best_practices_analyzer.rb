@@ -1,5 +1,5 @@
 module Schoolmaster
-  class BestPracticesAnalyser < BaseAnalyser
+  class BestPracticesAnalyzer < BaseAnalyzer
 
   	def initialize(params = {})
   		super

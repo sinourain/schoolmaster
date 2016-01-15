@@ -1,5 +1,5 @@
 module Schoolmaster
-  class TestAnalyser < BaseAnalyser
+  class TestAnalyzer < BaseAnalyzer
 
   	def initialize(params = {})
   		super

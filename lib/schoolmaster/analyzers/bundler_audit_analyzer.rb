@@ -1,5 +1,5 @@
 module Schoolmaster
-	class BundlerAuditAnalyser < BaseAnalyser
+	class BundlerAuditAnalyzer < BaseAnalyzer
 
 		def initialize(params = {})
 			super
